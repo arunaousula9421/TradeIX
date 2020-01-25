@@ -1,0 +1,18 @@
+{
+  "id": 0,
+  "category": {
+    "id": 0,
+    "name": "Dogs"
+  },
+  "name": "doggie",
+  "photoUrls": [
+    "www.google.com"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "Animals"
+    }
+  ],
+  "status": "available"
+}
